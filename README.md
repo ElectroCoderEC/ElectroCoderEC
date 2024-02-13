@@ -44,13 +44,13 @@ I've developed a lot of projects as a freelancer, so I manage different software
  <div class="skills-group">
    <h4 class="subtitle">Programming Languages</h4>
    <ul>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/Python-white?style=plastic&logo=python"></li>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-purple?style=plastic&logo=c%2B%2B"></li>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=javascript"></li>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23"></li>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/Dart-blue?style=plastic&logo=dart"></li>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%236761B6?style=plastic&logo=php"></li>
-     <li><img alt="Static Badge" src="https://img.shields.io/badge/Java-White?style=plastic&logo=oracle"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/Python-white?style=social&logo=python"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-purple?style=social&logo=c%2B%2B"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?style=social&logo=javascript"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=social&logo=C%23"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/Dart-blue?style=social&logo=dart"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%236761B6?style=social&logo=php"></li>
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/Java-White?style=social&logo=oracle"></li>
      <li><img alt="Static Badge" src="https://img.shields.io/badge/VHDL-white?style=social&logo=republicofgamers"></li>
    </ul></div>
      
