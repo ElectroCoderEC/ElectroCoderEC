@@ -51,7 +51,7 @@ I've developed a lot of projects as a freelancer, so I manage different software
      <li><img alt="Static Badge" src="https://img.shields.io/badge/Dart-blue?style=plastic&logo=dart"></li>
      <li><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%236761B6?style=plastic&logo=php"></li>
      <li><img alt="Static Badge" src="https://img.shields.io/badge/Java-White?style=plastic&logo=oracle"></li>
-     
+     <li><img alt="Static Badge" src="https://img.shields.io/badge/VHDL-white?style=social&logo=republicofgamers"></li>
    </ul></div>
      
  <div class="skills-group">
@@ -61,17 +61,12 @@ I've developed a lot of projects as a freelancer, so I manage different software
      <li><img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?style=plastic&logo=mongodb"></li>
       <li><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql"></li>
    </ul>
- </div>
-     
- 
- </ol>
-                                                                             
-
-<br>
+ </div></ol>
+                                                                            
 
 ## Contact me
 
-Feel free send me an <a href = "mailto: sebastiancuenca1@gmail.com">Email</a>
+Feel free to send me an <a href = "mailto: sebastiancuenca1@gmail.com">Email</a>
 
 <!--
 **ElectroCoderEC/ElectroCoderEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
