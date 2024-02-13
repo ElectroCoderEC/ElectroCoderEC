@@ -1,4 +1,6 @@
 <div align="center">
+   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1 align="center">Hello, I am ElectroCoderEC 👋</h1>
 </div>
 <img src="https://imgur.com/8fmk3Md.png">
@@ -7,6 +9,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSFuCPnuj9d379TgGQ880sw?style=social)](https://youtube.com/sebastiancuenca4482?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/ElectroCoderEC?style=social)](https://github.com/ElectroCoderEC)
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 ## About me
