@@ -24,26 +24,26 @@ I am passionate about technology and science. I'm self-taught, disciplined, resp
 
 ## Skills
 
-I've developed a lot of projects as a freelancer, so I manage different softwares and programming languages  
+> I've developed a lot of projects as a freelancer, so I manage different softwares and programming languages  
 
-<ol class="skills-groups-list">
-  <div class="skills-group">
-    <h4 class="subtitle">Softwares</h4>
-    <ul>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-green?style=plastic&logo=arduino">
-      <img alt="Static Badge" src="https://img.shields.io/badge/LabVIEW-black?style=plastic&logo=LABVIEW">
-      <img alt="Static Badge" src="https://img.shields.io/badge/MATLAB-orange?style=plastic&logo=MATLAB">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=plastic&logo=unity">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Node-RED-red?style=plastic&logo=node-red">
-      <img alt="Static Badge" src="https://img.shields.io/badge/TIA-PORTAL-purple?style=plastic&logo=siemens">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Factory%20I%2FO-black?style=plastic&logo=siemens">     
-      <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-blue?style=plastic&logo=android">
-      <img alt="Static Badge" src="https://img.shields.io/badge/EAGLE-PCB-brown?style=plastic&logo=eagle">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Altium%20Designer-black?style=plastic&logo=altium%20designer">
-      <img alt="Static Badge" src="https://img.shields.io/badge/SolidWorks-red?style=plastic&logo=dassaultsystemes">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Fusion%20360-orange?style=plastic&logo=autodesk">
-    </ul></div>
-      
+
+<div class="skills-group">
+ <h4 class="subtitle">Softwares</h4>
+ <ul>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-green?style=plastic&logo=arduino">
+   <img alt="Static Badge" src="https://img.shields.io/badge/LabVIEW-black?style=plastic&logo=LABVIEW">
+   <img alt="Static Badge" src="https://img.shields.io/badge/MATLAB-orange?style=plastic&logo=MATLAB">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=plastic&logo=unity">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Node-RED-red?style=plastic&logo=node-red">
+   <img alt="Static Badge" src="https://img.shields.io/badge/TIA-PORTAL-purple?style=plastic&logo=siemens">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Factory%20I%2FO-black?style=plastic&logo=siemens">     
+   <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-blue?style=plastic&logo=android">
+   <img alt="Static Badge" src="https://img.shields.io/badge/EAGLE-PCB-brown?style=plastic&logo=eagle">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Altium%20Designer-black?style=plastic&logo=altium%20designer">
+   <img alt="Static Badge" src="https://img.shields.io/badge/SolidWorks-red?style=plastic&logo=dassaultsystemes">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Fusion%20360-orange?style=plastic&logo=autodesk">
+ </ul></div>
+  
  <div class="skills-group">
    <h4 class="subtitle">Programming Languages</h4>
    <ul>
@@ -64,7 +64,7 @@ I've developed a lot of projects as a freelancer, so I manage different software
      <li><img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?style=plastic&logo=mongodb"></li>
       <li><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql"></li>
    </ul>
- </div></ol>
+ </div>
                                                                             
 
 ## Contact me
