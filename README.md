@@ -7,7 +7,7 @@
 
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSFuCPnuj9d379TgGQ880sw?style=social)]([https://youtube.com/sebastiancuenca4482?sub_confirmation=1](https://www.youtube.com/@ElectroCoderEC?sub_confirmation=1))
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCSFuCPnuj9d379TgGQ880sw?style=social)](https://www.youtube.com/@ElectroCoderEC?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/ElectroCoderEC?style=social)](https://github.com/ElectroCoderEC)
  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
