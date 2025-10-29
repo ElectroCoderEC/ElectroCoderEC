@@ -3,7 +3,8 @@
 
 <h1 align="center">Hello, I am ElectroCoderEC 👋</h1>
 </div>
-<img src="https://imgur.com/8fmk3Md.png">
+<img src="https://drive.google.com/uc?export=view&id=1raVl7eV5UC12CXsuHM1mkp7xPzCrwwjE" alt="Mi imagen" width="400">
+
 
 
 
