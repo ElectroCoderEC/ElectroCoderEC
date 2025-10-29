@@ -17,9 +17,25 @@
 
 I am passionate about technology and science. I'm self-taught, disciplined, responsible and committed to work. I love innovation, create new electronic devices or new software based on customer requirements. 
 
-- ⭐ Electronics Engineer ⭐
-- 📲 Mobile/Web/Desktop developer
-- 🤖 3D Designer/Robotics
+⭐ Electronics Engineer ⭐
+
+💻 Software Developer (Mobile / Web / Desktop)
+
+🧩 3D Designer (CAD/CAM)
+
+🤖 Robotics
+
+🏭 Automatización Industrial
+
+🔌 Sistemas Embebidos
+
+🧠 Inteligencia Artificial
+
+📱 Realidad Aumentada
+
+🕶️ Realidad Virtual
+
+👁️‍🗨️ Visión Artificial
 
 
 
