@@ -17,7 +17,7 @@
 
 I am passionate about technology and science. I'm self-taught, disciplined, responsible and committed to work. I love innovation, create new electronic devices or new software based on customer requirements. 
 
-⭐ Electronics Engineer ⭐
+⭐ Electronics Engineer
 
 💻 Software Developer (Mobile / Web / Desktop)
 
@@ -25,17 +25,17 @@ I am passionate about technology and science. I'm self-taught, disciplined, resp
 
 🤖 Robotics
 
-🏭 Automatización Industrial
+🏭 Industrial Automation
 
-🔌 Sistemas Embebidos
+🔌 Embedded Systems
 
-🧠 Inteligencia Artificial
+🧠 Artificial Intelligence
 
-📱 Realidad Aumentada
+📱 Augmented Reality
 
-🕶️ Realidad Virtual
+🕶️ Virtual Reality
 
-👁️‍🗨️ Visión Artificial
+👁️‍🗨️ Computer Vision
 
 
 
